@@ -1,4 +1,4 @@
 # odin_recipes
-Stir Fry Recipe
+Make recipe to learn HTML
 
-HTML will be used and Title, Head and List will be include
+Recipe HTML will include: title, head, image, list and paragraphs
